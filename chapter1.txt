@@ -1,1 +1,5 @@
 I am best
+
+git-config -- gobal user.email "chiragbhar45@gmail.com"
+
+git-config -- global user.name "Chirag"
